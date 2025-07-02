@@ -1,6 +1,6 @@
 # ChatGPT 中文版：免费国内直连指南（支持GPT-4，无需翻墙）【7月更新】
 
-> 更新日期：2025/07/02            
+> 更新日期：2025/07/03            
 
 本文提供全面的 **[ChatGPT 中文版](https://chat.lanjingai.org)使用指南**，推荐国内镜像网站，支持GPT-4，无需翻墙。快速使用上 [**ChatGPT 中文版**](https://chat.lanjingai.org)   
 本项目旨在为用户提供一站式的 **[ChatGPT 中文版](https://xsimplechat.com)使用指南**，同时整理了国内可用的 **ChatGPT镜像网站** 和 **官网使用教程**，帮助您快速上手 ChatGPT，无论是个人使用还是专业需求。
@@ -23,7 +23,7 @@
 ---
 
 ## 什么是 ChatGPT 中文版？
-**ChatGPT 中文版**是由 OpenAI 开发的 ChatGPT 模型的中文使用版本，旨在为中文用户提供更流畅、更精准的 AI 对话体验。   
+[**ChatGPT 中文版**](https://chat.lanjingai.org) 是由 OpenAI 开发的 ChatGPT 模型的中文使用版本，旨在为中文用户提供更流畅、更精准的 AI 对话体验。   
 对比官方 ChatGPT，**ChatGPT 中文版**在下面方面更适合国内用户：
 
 - **中文支持**：提供更流畅的中文对话能力，适用于学习、办公和日常使用。

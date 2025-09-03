@@ -5,8 +5,8 @@
 本文提供全面的 **[ChatGPT 中文版](https://chat.lanjingai.org)使用指南**，推荐国内镜像网站，支持GPT-4，无需翻墙。快速使用上 [**ChatGPT 中文版**](https://chat.lanjingai.org)   
 本项目旨在为用户提供一站式的 **[ChatGPT 中文版](https://xsimplechat.com)使用指南**，同时整理了国内可用的 **ChatGPT镜像网站** 和 **官网使用教程**，帮助您快速上手 ChatGPT，无论是个人使用还是专业需求。
 
-**ChatGPT 中文版入口：[https://chat.yixiaai.com](https://xsimplechat.com)**   
-**ChatGPT 镜像网站：[https://chat.lanjingai.org](https://chat.lanjingai.org)**
+**ChatGPT 中文版入口：[https://chat.lanjingai.org](https://chat.lanjingai.org)**   
+**ChatGPT 镜像网站：[https://chat.yixiaai.com](https://xsimplechat.com)**
 
 ---
 
